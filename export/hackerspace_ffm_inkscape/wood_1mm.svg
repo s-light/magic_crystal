@@ -262,21 +262,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-97)">
-    <g
-       transform="matrix(-0.1,0,0,0.1,180.52567,18.508923)"
-       id="g1039"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1">
-      <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         id="path50-2"
-         d="m 1745,1050 c 0,143.594 -116.406,260 -260,260 -143.594,0 -260,-116.406 -260,-260 0,-143.594 116.406,-260 260,-260 143.594,0 260,116.406 260,260" />
-      <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         id="path66-7"
-         d="m 1607.707,1031.2942 -48.3862,-77.4347 h -137.2333 l -46.9655,88.3298 47.2273,101.2799 116.7322,2.0375 68.6255,-114.2125" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:Overlock;-inkscape-font-specification:Overlock;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -307,12 +292,12 @@
        inkscape:label="View019"
        id="g5447"
        transform="matrix(0,0.26458333,-0.26458333,0,223.95411,68.946332)"
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#f70000;stroke-opacity:1">
       <path
          d="M 501.66194,683.74399 H 365.59895 v 13.22752 h -15.11811 v 30.23705 h 15.11811 v 13.22835 h 136.06299 v -13.22835 h 15.11811 v -30.23664 h -15.11811 v -13.22793"
          id="path50-5"
          inkscape:connector-curvature="0"
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795275;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f70000;stroke-width:0.37795275;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
@@ -347,14 +332,14 @@
          id="tspan919">Cut:</tspan><tspan
          sodipodi:role="line"
          x="-64.45816"
-         y="133.03218"
+         y="133.03217"
          style="font-size:6px;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332"
          id="tspan863">power 80</tspan><tspan
          sodipodi:role="line"
          x="-64.45816"
-         y="139.03218"
+         y="139.03217"
          style="font-size:6px;fill:#00ff00;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan879">speed 30</tspan></text>
+         id="tspan879">speed 25</tspan></text>
     <g
        style="fill:none;fill-opacity:1;stroke:#fd0000;stroke-opacity:1"
        transform="matrix(-0.0819152,0.05735764,0.05735764,0.0819152,210.0204,-44.705024)"
@@ -413,57 +398,71 @@
     <g
        transform="matrix(-0.0819152,0.05735764,0.05735764,0.0819152,156.29923,-45.774102)"
        id="g1663"
-       style="stroke:#ff0000;stroke-opacity:1">
+       style="stroke:#f40000;stroke-opacity:1">
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path50"
          d="m 1680.103,992.7375 c 5.312,7.5863 12.309,13.84 20.441,18.2713 30.168,16.439 46.472,50.3049 40.506,84.1397 -5.966,33.8348 -32.869,60.0825 -66.841,65.2115 -9.157,1.383 -17.87,4.866 -25.457,10.178 l -106.4895,74.565 c -7.5863,5.312 -13.84,12.309 -18.2713,20.441 -16.439,30.168 -50.3049,46.472 -84.1397,40.506 -33.8348,-5.966 -60.0825,-32.869 -65.2115,-66.841 -1.383,-9.157 -4.866,-17.87 -10.178,-25.457 l -74.565,-106.4895 c -5.312,-7.5863 -12.309,-13.84 -20.441,-18.2713 -30.168,-16.439 -46.472,-50.3049 -40.506,-84.1397 5.966,-33.8348 32.869,-60.0825 66.841,-65.2115 9.157,-1.383 17.87,-4.866 25.457,-10.178 l 106.4895,-74.565 c 7.5863,-5.312 13.84,-12.309 18.2713,-20.441 16.439,-30.168 50.3049,-46.472 84.1397,-40.506 33.8348,5.966 60.0825,32.869 65.2115,66.841 1.383,9.157 4.866,17.87 10.178,25.457 l 74.565,106.4895" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path66"
          d="m 1565,970 v 160 H 1405 V 970 h 160" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path82"
          d="m 1321.938,1037.4438 c 0,9.1127 -7.387,16.5 -16.5,16.5 -9.112,0 -16.5,-7.3873 -16.5,-16.5 0,-9.1127 7.388,-16.5 16.5,-16.5 9.113,0 16.5,7.3873 16.5,16.5" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path98"
          d="m 1681.062,1062.5562 c 0,9.1127 -7.388,16.5 -16.5,16.5 -9.113,0 -16.5,-7.3873 -16.5,-16.5 0,-9.1127 7.387,-16.5 16.5,-16.5 9.112,0 16.5,7.3873 16.5,16.5" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path114-9"
          d="m 1488.9438,1229.562 c 0,9.112 -7.3873,16.5 -16.5,16.5 -9.1127,0 -16.5,-7.388 -16.5,-16.5 0,-9.113 7.3873,-16.5 16.5,-16.5 9.1127,0 16.5,7.387 16.5,16.5" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path130-3"
          d="m 1514.0562,870.438 c 0,9.113 -7.3873,16.5 -16.5,16.5 -9.1127,0 -16.5,-7.387 -16.5,-16.5 0,-9.112 7.3873,-16.5 16.5,-16.5 9.1127,0 16.5,7.388 16.5,16.5" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path146-7"
          d="m 1651.237,989.6534 -8.191,5.7357 -45.886,-65.5321 8.191,-5.736 45.886,65.5324" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path162-4"
          d="m 1424.6534,883.763 5.7357,8.191 -65.5321,45.886 -5.736,-8.191 65.5324,-45.886" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path178-5"
          d="m 1372.84,1170.143 -8.191,5.736 -45.886,-65.5324 8.191,-5.7357 45.886,65.5321" />
       <path
-         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f40000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
          inkscape:connector-curvature="0"
          id="path194-2"
          d="m 1605.143,1162.16 5.736,8.191 -65.5324,45.886 -5.7357,-8.191 65.5321,-45.886" />
+    </g>
+    <g
+       transform="matrix(-0.1,0,0,0.1,181.90869,22.01658)"
+       id="g1039-5">
+      <path
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path50-47"
+         d="m 1745,1050 c 0,143.594 -116.406,260 -260,260 -143.594,0 -260,-116.406 -260,-260 0,-143.594 116.406,-260 260,-260 143.594,0 260,116.406 260,260" />
+      <path
+         style="font-style:normal;font-weight:400;font-size:medium;font-family:'Noto Sans';vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path66-4"
+         d="m 1608.955,1030.8438 -48.6256,-77.8169 h -138.3333 l -47.6221,89.5645 47.5444,101.9597 117.4821,2.0506 69.5545,-115.7579" />
     </g>
   </g>
 </svg>
