@@ -8,6 +8,18 @@ Some impressions of the parts and the build process...
 
 ## REAL
 
+### LEDBoards
+
+![lots of cables...](pictures/_small.jpg)
+
+### current design
+
+![assembly preparations](pictures/_small.jpg)
+
+![done :-)](pictures/_small.jpg)
+
+### first design
+
 ![assembly preparations](pictures/P1700538_small.jpg)
 
 ![assembly preparations details](pictures/P1700541_small.jpg)
