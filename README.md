@@ -1,3 +1,5 @@
+<!--lint disable list-item-indent-->
+<!--lint disable list-item-bullet-indent-->
 
 # magic_crystal
 CAD design for magic sparkle crystal
@@ -8,6 +10,9 @@ More documentation to be done.. ;-)
 ![first fit-test](pictures/P1700545_small.jpg)
 
 more images in the [Gallery](gallery.md)
+
+## Software
+have a look at [magic_crystal_animation](https://github.com/s-light/magic_crystal_animation)
 
 ## HW
 - 4x [LEDBoard_4x4_HD](https://github.com/s-light/LEDBoard_4x4_HD)
@@ -24,3 +29,6 @@ more images in the [Gallery](gallery.md)
     - 1mm plywood
         - 4x lightblocker_side
         - 1x crystal_mounting_layer4
+- 1x Adafruit ItsyBitsy M4 (or other CircuitPython or Arduino compatible board)
+- 1x Ambient-Light-Sensor
+- 2x Momentary-Push-Button
