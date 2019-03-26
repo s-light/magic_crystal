@@ -32,3 +32,12 @@ Some impressions of the parts and the build process...
 ![lightguides at work :-)](pictures/P1700548_small.jpg)
 
 ![lightguides at work :-)](pictures/P1700554_small.jpg)
+
+### assembly
+![prepare lots of cables](pictures/P1700582_small.jpg)
+
+![pinout](pictures/P1700583_crop_small.jpg)
+
+![connect LEDBoards together](pictures/P1700584_small.jpg)
+
+![connect LEDBoards together](pictures/P1700587_crop_small.jpg)
