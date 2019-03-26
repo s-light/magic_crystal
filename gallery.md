@@ -14,9 +14,15 @@ Some impressions of the parts and the build process...
 
 ### current design
 
-![assembly preparations](pictures/_small.jpg)
+![assembly preparations](pictures/P1700588_crop_small.jpg)
 
-![done :-)](pictures/_small.jpg)
+![LEDBoards details](pictures/P1700591_small.jpg)
+
+![matrix details](pictures/P1700602_small.jpg)
+![done :-)](pictures/P1700602_small.jpg)
+
+P1700615_small.jpg
+
 
 ### first design
 
